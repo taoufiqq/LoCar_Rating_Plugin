@@ -3,9 +3,7 @@
 /**
  * Plugin Name: Rating Content
  * Description: brief
- * Author: Ja3Bu9
- * Author URI: http://www.youtube.com/ja3bu9
- * Textdomain: rc
+ * Author: Taoufiq
  */
 
 if( ! defined( 'ABSPATH' ) ) {
